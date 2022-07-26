@@ -51,7 +51,7 @@ class _HomeViewState extends State<HomeView> {
                   color: Colors.grey,
                 )),
             TextSpan(
-                text: 'All Right Reserved | Kanigoro Farm 2022',
+                text: 'All Right Reserved | Alugoro Farm 2022',
                 style: TextStyle(color: Colors.grey)),
           ]),
           textAlign: TextAlign.center,
